@@ -27,7 +27,7 @@ Import the provided database into phpMyAdmin
 Start Apache and MySQL
 
 Open your browser and go to:
-http://localhost/your-folder-name
+http://localhost/StudentHub
 
 🔑 Admin Access
 Username: admin
