@@ -8,13 +8,13 @@ StudentHub is a dynamic web application developed for the Global Academy of Scie
 It also includes a secure admin panel where administrators can manage programmes and view student registrations.
 
 🚀 Features
-Browse programmes and modules
-Register interest in programmes
-Admin login system
-Admin dashboard
-Add, edit, and delete programmes (CRUD)
-View registered students
-Database integration
+Browse programmes and modules.
+Register interest in programmes.
+Admin login system.
+Admin dashboard.
+Add, edit, and delete programmes (CRUD).
+View registered students.
+Database integration.
 🛠️ Technologies Used
 HTML5
 CSS (Grid & Flexbox)
